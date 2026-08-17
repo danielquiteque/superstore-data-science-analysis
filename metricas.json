@@ -1,0 +1,13 @@
+{
+  "registros": 9994,
+  "colunas_originais": 21,
+  "valores_nulos": 0,
+  "duplicados": 0,
+  "vendas_totais": 2297200.8603,
+  "lucro_total": 286397.0217,
+  "margem_lucro_total": 0.12467217240315605,
+  "pedidos_unicos": 5009,
+  "clientes_unicos": 793,
+  "ticket_medio_por_pedido": 458.61466566180883,
+  "correlacao_desconto_lucro": -0.21948745637176792
+}

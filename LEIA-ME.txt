@@ -1,0 +1,1 @@
+Projeto do Desafio Extra de Introdução ao Data Science. Autor: Daniel Quiteque. Abra README.md para a documentação completa e desafio_data_science_superstore.ipynb para executar a análise.
